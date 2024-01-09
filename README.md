@@ -1,1 +1,1 @@
-# OBAGT
+# Organizational Behavior Analysis using Game Theory
